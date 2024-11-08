@@ -1,4 +1,4 @@
-# ![artificial intelligence consultants]("C:\Users\marin\OneDrive\Escritorio\githubbbb.png")
+![Artificial Intelligence Consultants](./githubbbb.png)
 
 # Hello! 👋
 
