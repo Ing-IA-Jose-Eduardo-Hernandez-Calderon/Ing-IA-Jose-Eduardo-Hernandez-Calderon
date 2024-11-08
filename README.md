@@ -1,4 +1,4 @@
-![Artificial Intelligence Consultants](./githubbbb.png)
+![Artificial Intelligence Consultants](./Portada_README.png)
 
 # Hello! 👋
 
