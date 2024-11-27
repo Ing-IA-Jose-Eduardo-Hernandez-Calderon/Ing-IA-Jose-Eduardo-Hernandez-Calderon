@@ -1,4 +1,4 @@
-![Artificial Intelligence Consultants](./PORTADA GITHUB PRESENTACION.png)
+![Artificial Intelligence Consultants](./PORTADA_GITHUB_PRESENTACION.png)
 
 # Hello! 👋
 
